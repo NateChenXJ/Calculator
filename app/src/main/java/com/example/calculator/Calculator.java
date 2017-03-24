@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 public class Calculator extends AppCompatActivity {
 
-    private TextView screen;
+    private TextView screen; 
     private String display = "";
     private String currentOperator = "";
 
